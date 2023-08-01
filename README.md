@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thapachyut8863
 - 👀 I’m interested in Gaming, Coding and Travelling
-- 🌱 I’m currently learning Django, Java
+- 🌱 I’m currently learning Automation using selenium Java
 - 💞️ I’m looking to collaborate on Both Front-End and Back-End 
 - 📫 How to reach me achyutthapa6@gmail.com
 -
